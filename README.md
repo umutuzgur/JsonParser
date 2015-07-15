@@ -1,5 +1,5 @@
 # SwiftJSONMapper
-<p> Welcome to SwiftJSONMapper! A json parsing library made with love and necessity.</p>
+<p> Welcome to SwiftJSONMapper! A json mapping library made with love and necessity.</p>
 <p> It allows you to send data and retrieve data with models.</p>
 <p> You just need to state which class you want to map into a Json file and this project will help you with that. </p>
 <p> It uses reflection to create a map of the fields and classes that are kept in the main class and creates a map tree </p>
