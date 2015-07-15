@@ -7,7 +7,7 @@
 <p> So far I implemented Swift objects, custom classes and class arrays </p>
 
 ## What to expect
-This is new and it was written as a need for simple lightweight and modifiable Json parser so there can be bugs and I assume there are some bugs. It uses native libraries so it has no dependencies.
+This is new and it was written as a need for simple lightweight and modifiable Json mapper so there can be bugs and I assume there are some bugs. It uses native libraries so it has no dependencies.
 
 
 ##What should I do if there is a bug?
